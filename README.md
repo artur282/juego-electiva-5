@@ -1,4 +1,5 @@
-# juego-electiva-5
-proyecto de videojuego para la materia electiva 5
-
-alumno: Luis cruz ci:29526596
+# BlackJack Vite
+Pasos para ejecutar proyecto:
+1.Clonar repositorio
+2.Ejecutarnpm install 
+3.crear devserver  con 'npm run dev '
